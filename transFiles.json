@@ -1,7 +1,7 @@
 {
   "server": [
-    {"host": "192.168.214.129","port":22,"user": "root","password": "password"},
-    {"host": "192.168.214.129","port":22,"user": "root","password": "password"}
+    {"host": "192.168.*.*","port":22,"user": "root","password": "password"},
+    {"host": "192.168.*.*","port":22,"user": "root","password": "password"}
   ],
   "serverpath":"/tmp/"
 }
